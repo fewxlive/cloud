@@ -1,0 +1,9 @@
+{
+    "name": "66926/cloud",
+    "autoload": {
+        "psr-4": {
+            "66926\\Cloud\\": "src/"
+        }
+    },
+    "require": {}
+}
